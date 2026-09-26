@@ -1,0 +1,21 @@
+name: Profile widgets
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎日 09:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  widgets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: k-s0ma/github-profile-widgets@v1
+        with:
+          key-color: "#2b3a67"
+          sub-color: "#8c93a8"
+          key-color-dark: "#a5b4fc"
+          sub-color-dark: "#5d6480"
