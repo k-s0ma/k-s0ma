@@ -20,7 +20,7 @@
   <circle cx="63.8" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 40ms both;"/>
   <circle cx="82.3" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 80ms both;"/>
   <circle cx="100.8" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 120ms both;"/>
-  <circle cx="119.3" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 160ms both;"/>
+  <circle cx="119.3" cy="8" r="5.8" class="key" opacity="1.00" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 160ms both;"/>
   <circle cx="137.8" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 200ms both;"/>
   <circle cx="156.3" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 240ms both;"/>
   <circle cx="174.8" cy="8" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 280ms both;"/>
