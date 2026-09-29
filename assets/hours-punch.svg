@@ -53,7 +53,7 @@
   <circle cx="230.3" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 412ms both;"/>
   <circle cx="248.8" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 452ms both;"/>
   <circle cx="267.3" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 492ms both;"/>
-  <circle cx="285.8" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 532ms both;"/>
+  <circle cx="285.8" cy="24" r="3.1" class="key" opacity="0.57" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 532ms both;"/>
   <circle cx="304.3" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 572ms both;"/>
   <circle cx="322.8" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 612ms both;"/>
   <circle cx="341.3" cy="24" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 652ms both;"/>
@@ -68,7 +68,7 @@
   <circle cx="63.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 64ms both;"/>
   <circle cx="82.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 104ms both;"/>
   <circle cx="100.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 144ms both;"/>
-  <circle cx="119.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 184ms both;"/>
+  <circle cx="119.3" cy="40" r="2.2" class="key" opacity="0.42" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 184ms both;"/>
   <circle cx="137.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 224ms both;"/>
   <circle cx="156.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 264ms both;"/>
   <circle cx="174.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 304ms both;"/>
