@@ -76,8 +76,8 @@
   <circle cx="211.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 384ms both;"/>
   <circle cx="230.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 424ms both;"/>
   <circle cx="248.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 464ms both;"/>
-  <circle cx="267.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 504ms both;"/>
-  <circle cx="285.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 544ms both;"/>
+  <circle cx="267.3" cy="40" r="2.2" class="key" opacity="0.42" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 504ms both;"/>
+  <circle cx="285.8" cy="40" r="2.2" class="key" opacity="0.42" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 544ms both;"/>
   <circle cx="304.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 584ms both;"/>
   <circle cx="322.8" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 624ms both;"/>
   <circle cx="341.3" cy="40" r="1.5" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 664ms both;"/>
