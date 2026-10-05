@@ -380,4 +380,5 @@
   <circle cx="466.4" cy="49.8" r="1.8" class="key" opacity="0.37" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 866ms both;"/>
   <circle cx="466.4" cy="58.9" r="1.8" class="key" opacity="0.73" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 876ms both;"/>
   <circle cx="475.5" cy="4.5" r="1.8" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 832ms both;"/>
+  <circle cx="475.5" cy="13.6" r="1.8" class="sub" opacity="0.35" style="animation: fade 500ms cubic-bezier(.2,.7,.2,1) 842ms both;"/>
 </svg>
