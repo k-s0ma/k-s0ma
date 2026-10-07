@@ -20,7 +20,7 @@
   <text x="0" y="54" class="label sub" style="animation: fade 700ms cubic-bezier(.2,.7,.2,1) 200ms both;">repos</text>
   <text x="96" y="30" class="num key" style="animation: rise 700ms cubic-bezier(.2,.7,.2,1) 120ms both;">0</text>
   <text x="96" y="54" class="label sub" style="animation: fade 700ms cubic-bezier(.2,.7,.2,1) 320ms both;">stars</text>
-  <text x="192" y="30" class="num key" style="animation: rise 700ms cubic-bezier(.2,.7,.2,1) 240ms both;">1</text>
+  <text x="192" y="30" class="num key" style="animation: rise 700ms cubic-bezier(.2,.7,.2,1) 240ms both;">2</text>
   <text x="192" y="54" class="label sub" style="animation: fade 700ms cubic-bezier(.2,.7,.2,1) 440ms both;">followers</text>
   <text x="288" y="30" class="num key" style="animation: rise 700ms cubic-bezier(.2,.7,.2,1) 360ms both;">201</text>
   <text x="288" y="54" class="label sub" style="animation: fade 700ms cubic-bezier(.2,.7,.2,1) 560ms both;">contribs / yr</text>
